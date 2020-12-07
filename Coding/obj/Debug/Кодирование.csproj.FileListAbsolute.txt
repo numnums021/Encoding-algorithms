@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\Кодирование\bin\Debug\Кодирование.exe.config
+C:\Users\User\source\repos\Кодирование\bin\Debug\Кодирование.exe
+C:\Users\User\source\repos\Кодирование\bin\Debug\Кодирование.pdb
+C:\Users\User\source\repos\Кодирование\obj\Debug\Кодирование.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Кодирование\obj\Debug\Кодирование.Code_Decode.resources
+C:\Users\User\source\repos\Кодирование\obj\Debug\Кодирование.Properties.Resources.resources
+C:\Users\User\source\repos\Кодирование\obj\Debug\Кодирование.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Кодирование\obj\Debug\Кодирование.exe
+C:\Users\User\source\repos\Кодирование\obj\Debug\Кодирование.pdb
+C:\Users\User\Desktop\4 курс 1 сем\Зищита информации\Кодирование\bin\Debug\Кодирование.exe.config
+C:\Users\User\Desktop\4 курс 1 сем\Зищита информации\Кодирование\bin\Debug\Кодирование.exe
+C:\Users\User\Desktop\4 курс 1 сем\Зищита информации\Кодирование\bin\Debug\Кодирование.pdb
+C:\Users\User\Desktop\4 курс 1 сем\Зищита информации\Кодирование\obj\Debug\Кодирование.csprojAssemblyReference.cache
+C:\Users\User\Desktop\4 курс 1 сем\Зищита информации\Кодирование\obj\Debug\Кодирование.Code_Decode.resources
+C:\Users\User\Desktop\4 курс 1 сем\Зищита информации\Кодирование\obj\Debug\Кодирование.Properties.Resources.resources
+C:\Users\User\Desktop\4 курс 1 сем\Зищита информации\Кодирование\obj\Debug\Кодирование.csproj.GenerateResource.cache
+C:\Users\User\Desktop\4 курс 1 сем\Зищита информации\Кодирование\obj\Debug\Кодирование.exe
+C:\Users\User\Desktop\4 курс 1 сем\Зищита информации\Кодирование\obj\Debug\Кодирование.pdb
